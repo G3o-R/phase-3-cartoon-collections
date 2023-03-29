@@ -123,3 +123,5 @@ value instead of printing it so keep that in mind.
 [map]: http://ruby-doc.org/core/Array.html#method-i-map
 [include?]: http://ruby-doc.org/core/Array.html#method-i-include-3F
 [arrays]: http://ruby-doc.org/core/Array.html
+
+https://github.com/G3o-R/phase-3-cartoon-collections
